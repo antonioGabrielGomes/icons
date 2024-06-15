@@ -1,2 +1,2 @@
 # icons hotmap
-(hotmap)[hotmap.png]
+![HOTMAP](hotmap.PNG)
